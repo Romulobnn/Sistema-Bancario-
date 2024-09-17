@@ -24,7 +24,7 @@ while True:
     if opcao == "a":
         valor = float(input("informe o valor do depósito: "))
 
-        if valor > 0:                                  # verificando se o calor informado é maior que 0
+        if valor > 0:                                  # verificando se o calor informado é maior que 00
             saldo += valor                             # soma o valor com o saldo em conta
             extrato += f"Depósito: R$ {valor:.2f}\n"   # concateno a str com valor formatodo com 2 casas decimais
 
@@ -67,3 +67,4 @@ while True:
          break
     else:
         print("OPERAÇÂO INVÁLIDA, POR FAVOR SELECIONE NOVAMENTE A OPERAÇÂO DESEJADA.")
+
