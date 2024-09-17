@@ -7,7 +7,7 @@ Desafio realizado durante a participação do Bootcamp: ** Engenharia de dados c
 
 ### Proposta:
 
-Neste projeto,criamos um **Sistema Bancário em Python** utilizando as três operações essênciais: **depósito**, **saque** e **extrato**. Com isso foi possivel aplicar conhecimentos em programação Python e criar um sistema funcional que simulava as operações bancárias. 
+🏦Neste projeto, criamos um Sistema Bancário em Python utilizando as três operações essenciais: depósito, saque e extrato. Com isso foi possível aplicar conhecimentos em programação Python e criar um sistema funcional que simulava as operações bancárias.
 
 ### Regras da implementação:
 > Deposito: 
